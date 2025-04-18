@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.mickey42302.profanity.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "TextFiltererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mickey42302-profanity-refmap.json"
+}
